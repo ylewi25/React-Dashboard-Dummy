@@ -236,9 +236,9 @@ body {
 
 .right {
     display: flex;
-    flex-direction: column;
     column-gap: 1rem;
     justify-content: center;
+    align-items: center;
 }
 
 /* ================================ ACCESSORIES BAR ================================ */
