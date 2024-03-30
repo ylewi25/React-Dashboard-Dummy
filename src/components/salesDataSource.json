@@ -1,0 +1,23 @@
+[
+    {
+        "country": "United States",
+        "value": 32400,
+        "percent": 12.8,
+        "bp": "40K",
+        "flag": "./images/USA.png"
+    },
+    {
+        "country": "China",
+        "value": 26200,
+        "percent": -18.4,
+        "bp": "24K",
+        "flag": "./images/China.png"
+    },
+    {
+        "country": "Germany",
+        "value": 23100,
+        "percent": 21.3,
+        "bp": "18K",
+        "flag": "./images/Germany.png"
+    }
+]

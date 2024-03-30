@@ -1,0 +1,37 @@
+[
+    {
+        "label": "Sun",
+        "value": 11000,
+        "target": 5000
+    },
+    {
+        "label": "Mon",
+        "value": 5000,
+        "target": 4000
+    },
+    {
+        "label": "Tue",
+        "value": 16000,
+        "target": 4000
+    },
+    {
+        "label": "Wed",
+        "value": 10000,
+        "target": 5000
+    },
+    {
+        "label": "Thu",
+        "value": 15000,
+        "target": 3000
+    },
+    {
+        "label": "Fri",
+        "value": 3000,
+        "target": 5000
+    },
+    {
+        "label": "Sat",
+        "value": 9000,
+        "target": 6000
+    }
+]

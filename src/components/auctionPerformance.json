@@ -1,0 +1,23 @@
+[
+    {
+        "car": "./images/car1.png",
+        "code": "AUDI R8",
+        "category": "Premium Plus",
+        "revenue": 4800,
+        "percent": 21.3
+    },
+    {
+        "car": "./images/car2.png",
+        "code": "HYUNDAI I10",
+        "category": "Premium Plus",
+        "revenue": 3700,
+        "percent": 21.3
+    },
+    {
+        "car": "./images/car3.png",
+        "code": "FRONX",
+        "category": "Premium Plus",
+        "revenue": 12300,
+        "percent": 21.3
+    }
+]
