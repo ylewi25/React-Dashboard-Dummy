@@ -41,12 +41,22 @@ const ImageCarousel = () => {
         }, 7000)
         return () => clearInterval(interval)
     }, [imageList])
+
+    const beActive = (index) => {
+        if(index === 0) {
+            handleRightClick()
+        } else if (index === 2) {
+            handleLeftClick()
+        } else {
+            return
+        }
+    }
     
   return (
     <div className='image-carousel'>
         <i onClick={handleRightClick} className="ri-arrow-left-wide-line slide-left"></i>
         <div className="list-of-image">
-            {imageList.map((image, index) => <img data-direction={direction} key={image} className={getClassName(index)} src={require(`${imageList[index]}`)} alt='car-beauty' />)}
+            {imageList.map((image, index) => <img onClick={() => beActive(index)} data-direction={direction} key={image} className={getClassName(index)} src={require(`${imageList[index]}`)} alt='car-beauty' />)}
         </div>
         <i onClick={handleLeftClick} className="ri-arrow-right-wide-line slide-right"></i>
     </div>
