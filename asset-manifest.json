@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Dashboard-Dummy/static/css/main.fe815f74.css",
+    "main.css": "/React-Dashboard-Dummy/static/css/main.ae85f9e0.css",
     "main.js": "/React-Dashboard-Dummy/static/js/main.641e283f.js",
     "static/js/453.7b81f8b6.chunk.js": "/React-Dashboard-Dummy/static/js/453.7b81f8b6.chunk.js",
     "static/media/remixicon.svg?t=1708865856766": "/React-Dashboard-Dummy/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
@@ -24,12 +24,12 @@
     "static/media/USA.png": "/React-Dashboard-Dummy/static/media/USA.98c3d1a0949485a35fc3.png",
     "static/media/China.png": "/React-Dashboard-Dummy/static/media/China.c94e93637fad842ab581.png",
     "index.html": "/React-Dashboard-Dummy/index.html",
-    "main.fe815f74.css.map": "/React-Dashboard-Dummy/static/css/main.fe815f74.css.map",
+    "main.ae85f9e0.css.map": "/React-Dashboard-Dummy/static/css/main.ae85f9e0.css.map",
     "main.641e283f.js.map": "/React-Dashboard-Dummy/static/js/main.641e283f.js.map",
     "453.7b81f8b6.chunk.js.map": "/React-Dashboard-Dummy/static/js/453.7b81f8b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe815f74.css",
+    "static/css/main.ae85f9e0.css",
     "static/js/main.641e283f.js"
   ]
 }
